@@ -17,6 +17,14 @@
 
 ---------------
 
+# Gitee镜像 - 现已上线
+
+![Gitee](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/gitee-EatSakana-ction.png)
+
+链接：[Gitee](https://gitee.com/yandao0313/EatSakana-ction)
+
+---------------
+
 ## 可选功能
 
 简易排行榜(日/周/月) | 不推荐使用
