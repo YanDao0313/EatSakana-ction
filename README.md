@@ -97,7 +97,3 @@
 ## 其它事项
 
 点下star吧~
-
----------------
-
-<iframe src="//player.bilibili.com/player.html?aid=418645518&bvid=BV1EV411s7vu&cid=354201191&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
