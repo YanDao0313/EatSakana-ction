@@ -1,13 +1,17 @@
-![Main](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/eat-sakana-ction-main.png)
+<div align=center><img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/ClickAfter.png" width="150px"></div>
+
+--------------
 
 # Eat Sakana-ction
+
+![Main](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/eat-sakana-ction-main.png)
 
 一个成分复杂的网页小游戏
 
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：吃掉SAKANA
 
 [鱼韵b站](https://space.bilibili.com/1693810421) | [Vercel](https://eat-sakana-ction.vercel.app) | [Github Pages](https://yandao0313.github.io/EatSakana-ction)
 
